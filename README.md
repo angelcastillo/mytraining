@@ -1,0 +1,4 @@
+mytraining
+==========
+
+Learning Git
